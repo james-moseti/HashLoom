@@ -1,5 +1,6 @@
 # jemo_tech@2025
-# below is a O(log(n)) function
+# below is a O(log(n)) function with constant space
+# iterative approach
 
 class Solution:
     def binary_search(self, list: list, target: int):
